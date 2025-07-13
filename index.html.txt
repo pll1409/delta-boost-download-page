@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delta Boost - Otimizador para Windows</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <img src="delta_boost_icon.jpg" alt="Logo Delta Boost" width="150px"> <h1>Delta Boost</h1>
+        <p>O Delta Boost é um otimizador de sistema para Windows, projetado para aprimorar o desempenho, remover arquivos desnecessários e automatizar tarefas de manutenção, proporcionando uma experiência de uso mais rápida e eficiente.</p>
+    </header>
+
+    <section class="download-section">
+        <a href="SEU_LINK_MEDIAFIRE_AQUI.exe" download class="download-button">Baixar Delta Boost Agora</a>
+        <p class="small-text">Versão 1.0.0 | Compatível com Windows 10/11</p>
+    </section>
+
+    <section class="instructions-section">
+        <h2>Como Instalar e Usar:</h2>
+        <ol>
+            <li>Clique no botão "Baixar Delta Boost Agora" e execute o instalador.</li>
+            <li>Siga as instruções na tela para concluir a instalação.</li>
+            <li>Após a instalação, abra o Delta Boost e faça login com seu e-mail e senha cadastrados no Firebase.</li>
+            <li>Pronto! Comece a otimizar seu sistema.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>Em caso de dúvidas, fale conosco pelo WhatsApp: <a href="SEU_LINK_DO_WHATSAPP_AQUI" target="_blank">[Seu WhatsApp]</a></p>
+    </footer>
+</body>
+</html>
